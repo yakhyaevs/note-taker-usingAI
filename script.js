@@ -1,13 +1,3 @@
-// const addButton = document.getElementById("add-button");
-// const notesList = document.getElementById("notes-list");
-// const noteTextarea = document.getElementById("note");
-
-// addButton.addEventListener("click", () => {
-//   const note = noteTextarea.value;
-//   const newListItem = document.createElement("li");
-//   newListItem.innerHTML = note;
-//   notesList.appendChild(newListItem);
-// });
 const addButton = document.getElementById("add-button");
 const notesList = document.getElementById("notes-list");
 const noteTextarea = document.getElementById("note");
